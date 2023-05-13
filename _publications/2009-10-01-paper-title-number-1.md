@@ -10,10 +10,10 @@ citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 
 ---
 
 ---
- title:   M. Younis, W. Lalouani, N. Lasla, L. Emokpae and M. Abdallah, \xc3\xa2\xc2\x80\xc2\x9dBlockchain- Enabled and Data-Driven Smart Healthcare Solution for Secure and Privacy-Preserving Data Access,\xc3\xa2\xc2\x80\xc2\x9d in IEEE Systems Journal, 2021.\n' 
-  collection:publications permalink: /publication/2010-10-01-paper-title-number-1 
- paperurl: 'http://academicpages.github.io/files/paper1.pdf' 
-  citation: M. Younis, W. Lalouani, N. Lasla, L. Emokpae and M. Abdallah, \xc3\xa2\xc2\x80\xc2\x9dBlockchain- Enabled and Data-Driven Smart Healthcare Solution for Secure and Privacy-Preserving Data Access,\xc3\xa2\xc2\x80\xc2\x9d in IEEE Systems Journal, 2021.\n'
+title:   M. Younis, W. Lalouani, N. Lasla, L. Emokpae and M. Abdallah, Blockchain- Enabled and Data-Driven Smart Healthcare Solution for Secure and Privacy-Preserving Data Access, in IEEE Systems Journal, 2021.\n' 
+collection:publications permalink: /publication/2010-10-01-paper-title-number-1 
+paperurl: 'http://academicpages.github.io/files/paper1.pdf' 
+citation: M. Younis, W. Lalouani, N. Lasla, L. Emokpae and M. Abdallah, Blockchain- Enabled and Data-Driven Smart Healthcare Solution for Secure and Privacy-Preserving Data Access, in IEEE Systems Journal, 2021.'
  
  ---
  ---
