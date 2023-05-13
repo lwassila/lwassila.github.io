@@ -1,4 +1,249 @@
-<!-- Publication section start -->
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<!--niru2-->
+<html lang="en">
+<!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<title> Research Assistant, UMBC</title>
+		
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="images/favicon.ico">
+
+		<!-- Web Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Raleway:700,400,300' rel='stylesheet' type='text/css'>
+
+		 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+		<!-- Bootstrap core CSS -->
+		<link href="bootstrap.css" rel="stylesheet">
+
+		<!-- Font Awesome CSS -->
+		<link href="font.css" rel="stylesheet">
+
+		<!-- Plugins -->
+		<link href="animations.css" rel="stylesheet">
+
+		<!-- Worthy core CSS file -->
+		<link href="style.css" rel="stylesheet">
+
+		<!-- Custom css -->
+		<link href="custom.css" rel="stylesheet">
+
+		<!--
+		Copied the old analytics script.
+		Date: 28th June 2017
+
+		Copied from below.
+		Niru UIUC Webpage
+		Default URL: http://web.engr.illinois.edu/~nroy8
+		Tracking id: UA-38370168-2
+		Date: 25th Aug 2013
+		-->
+		<script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=z8x3-HhEIViAbW4cMUp1Ta_flq5-pqfHVPQJF7jJrTDKACqeRnukkoPm6ZveVa7-74XIBikUsxePC0Yef8PUfw" charset="UTF-8"></script><link rel="stylesheet" crossorigin="anonymous" href="https://gc.kis.v2.scr.kaspersky-labs.com/E3E8934C-235A-4B0E-825A-35A08381A191/abn/main.css?attr=aHR0cHM6Ly93d3cuY3NlZS51bWJjLmVkdS9-bHdhc3NpbDEvcHJvamVjdHMv"/><script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-38370168-2', 'illinois.edu');
+		  ga('send', 'pageview');
+
+		</script>
+		<style>
+img {
+  border-radius: 50%;
+}
+</style>
+	</head>
+
+	<body class="no-trans fixed-header-on">
+		<!-- scrollToTop -->
+		<!-- ================ -->
+		<div class="scrollToTop"><i class="icon-up-open-big"></i></div>
+
+		<!-- header start -->
+		<!-- ================ -->
+		<header class="header fixed clearfix navbar navbar-fixed-top">
+		<font style="font-size:12pt;">
+			<!--div class="container">
+				<div class="row">
+					<div class="col-md-3">
+
+						<!-- header-left start -->
+						<!-- ================ -->
+						<div class="header-left clearfix">
+
+							<!-- logo -->
+							<!-- <div class="logo smooth-scroll">
+								<a href="#banner"><img id="logo" src="images/ieee.png" alt="Worthy"></a>
+							</div> -->
+
+							<!-- name-and-slogan -->
+							<div class="site-name-and-slogan smooth-scroll">
+								<div class="site-name"><a href="#banner"><font style="font-size:20pt;"></font></a></div>
+								<div class="site-slogan"><font style="font-size:12pt;"></font></a></div>
+							</div>
+
+						</div>
+						<!-- header-left end -->
+
+					</div>
+					<div class="col-md-9">
+
+						<!-- header-right start -->
+						<!-- ================ -->
+						<div class="header-right clearfix">
+
+							<!-- main-navigation start -->
+							<!-- ================ -->
+							<div class="main-navigation animated">
+
+								<!-- navbar start -->
+								<!-- ================ -->
+								<!--nav class="navbar navbar-default" role="navigation"-->
+								<nav class="navbar navbar-light bg-light">
+									<!--div class="container-fluid"-->
+
+										<!-- Toggle get grouped for better mobile display -->
+										<div class="navbar-header">
+											<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+												<span class="sr-only">Toggle navigation</span>
+												<span class="icon-bar"></span>
+												<span class="icon-bar"></span>
+												<span class="icon-bar"></span>
+											</button>
+										</div>
+
+										<!-- Collect the nav links, forms, and other content for toggling -->
+										<div class="collapse navbar-collapse scrollspy smooth-scroll" id="navbar-collapse-1">
+											<ul class="nav navbar-nav navbar-right">
+												<li class="active"><a id="dyn_small_font_1" href="#home-id">Home</a></li>
+												<li><a id="dyn_small_font_1" href="#publication-id">Publications</a></li>
+												<li><a id="dyn_small_font_1" href="#award-id">Project</a></li>
+												<li><a id="dyn_small_font_1" href="#teaching-id">Teaching</a></li> 
+												<li><a id="dyn_small_font_1" href="./images/projects/CV_UMBC.pdf">CV</a></li>
+												</ul>
+										</div>
+
+									<!--/div-->
+								</nav>
+								<!-- navbar end -->
+
+							</div>
+							<!-- main-navigation end -->
+
+						</div>
+						<!-- header-right end -->
+
+					</div>
+				</div>
+			</div-->
+		</header>
+		<!-- header end -->
+
+		<!-- banner start -->
+		<!-- ====== ORIG ====== -->
+
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% -->
+		<div id="remove_for_small_width" class="object-visible" style="margin-top:75px;">
+		</div>
+		<!--div id="only_for_mobile_screen1" class="space_15px">
+		</div-->
+		<div id="home-id" class="object-visible">
+			<div class="container">
+				<div class="row">
+					<div style="width:100%; background-color:white;">
+						
+						<div class="col-md-3" style="margin-top:20px; background-color:white;"> <!-- Picture -->
+							<img class="img-responsive img-rounded" src="./images/ieee.png" alt="was">
+							<div class="portrait-title">
+        <p style="font-size:12pt; margin-bottom:0px">
+								Research Assistant <br>
+								<a href="https://www.csee.umbc.edu/"><font style="font-size:12pt; color:#3072dd;">Dept. of CSEE,</font></a> <a href="https://www.umbc.edu/"><font style="font-size:14pt; color:#3072dd;"> University of Maryland Baltimore County</font></a></br>
+								<i class="fa fa-envelope-o pr-10" style="font-size:20pt"></i> <font style="font-size:14pt">lwassil1@umbc.edu</font></br>
+							</p>
+							</div> </div>
+
+
+						<div class="col-md-9" style="background-color:white;"> <!-- Banner info -->
+							<h1 id="font_for_mobile_screen1" class="text-left" style="color:black;"> Wassila  </h1>
+						
+
+							<p style="font-size:14pt; text-align: justify; margin-bottom:10px; margin-top:5px;">
+							 I am Research Assistant at the Department of Computer Science and Electrical Engineering at the University of Maryland, Baltimore County. 
+							 Before joining umbc, I was a Lecturer. I obtained my M.Sc. in Computer Science from
+			University of Science and Technology Houari Boumedine. 
+							&nbsp;&nbsp;&nbsp;<b></b></br>
+							&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							</p>
+							<p style="font-size:14pt; text-align: justify; margin-bottom:10px; margin-top:5px;">My Research interests include Telehealth System, Cyber physical system security, Intelligent AI Attacks, Communication
+Privacy, Machine Learning for Communication, and distributed system.</br>
+				
+							
+							<b>
+						<li>
+          <a href="mailto:lwassil1@umbc.edu" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        
+          <a href="https://scholar.google.nl/citations?user=Z8r6zFEAAAAJ&hl=en" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        <!--/li-->        
+        
+        <a href="https://www.researchgate.net/profile/Wassila-Lalouani" target="_blank" rel="noopener">
+            <i class="fab fa-researchgate big-icon"></i>
+          </a>
+        
+          <a href="https://dblp.org/pid/154/4036.html" target="_blank" rel="noopener">
+            <i class="ai ai-dblp big-icon"></i>
+          </a>
+        
+          <a href="https://orcid.org/0000-0002-0801-5827" target="_blank" rel="noopener">
+            <i class="fab fa-orcid big-icon"></i>
+          </a>
+        </li>
+        <!--li class="linkedin"><a target="_blank" href="http://www.linkedin.com"><i class="fa fa-linkedin"></i></a></li-->
+        				</b>		</p>
+
+				
+								
+						</div>
+
+            
+					</div>
+				</div>
+			</div>
+			
+								
+			
+		</div>
+
+    <hr size="50" width="100%" color="black"> 
+		<!-- banner end -->
+    
+		<!--div class="space"></div-->
+
+		
+
+		<!-- Publication section start -->
 		<!-- ================ -->
     <div class="publication-banner" style="background-color:white;">
       <div class="publication-banner-image">
@@ -10,7 +255,7 @@
 			</div>
 		</div>
 
-<!-- CONFERENCE PUBLICATION PANEL-->
+		<!-- CONFERENCE PUBLICATION PANEL-->
 		<div class="section2 clearfix object-visible">
 				<!-- div class="col-md-12 publication-panel">
 						<div class="col-md-12 space_5px"></div>
@@ -457,7 +702,9 @@ Roland N. Emokpae Jr. , Lloyd E. Emokpae</font> <br>
 						</div>
 					       </div>
              <!-- end PAPER:1 -->
-<!-- PAPER:1 -->
+
+
+						  	<!-- PAPER:1 -->
 						
 					<div class="col-md-12">
 						<div class="col-md-2 project-panel-image" style="background-image: url(./images/palm.png); background-size: 100%; background-repeat: no-repeat; background-position: center; height:100px; width:135px; border: 1px solid #0e228a;
@@ -675,3 +922,235 @@ Roland N. Emokpae Jr. , Lloyd E. Emokpae</font> <br>
 				<!-- /div-->
 			</div> <!--Container end-->
 		</div> <!--Section end-->
+
+    
+		<!-- Project section start -->
+		<!-- ================ -->
+		<b>
+		<div class="publication-banner">
+      <div class="publication-banner-image">
+				<div  id="award-id"  class="publication-banner-caption">
+					<div class="col-md-12">
+								<h1 class="text-left">Project</h1>
+							</div>
+					</div>
+			</div>
+		</div>
+
+		<div class="section2 clearfix object-visible">
+			<!--div class="container"-->
+
+				<!--div class="col-md-12 publication-panel"-->
+					<div class="col-md-12 space_3px"></div>
+					<!-- Award:1 -->
+					<div class="col-md-12">						
+						<div class="col-md-1">
+						<img src="./images/body.png" alt="M" style="width:80px">
+						</div>
+						<div class="col-md-10">							
+							<p> <font style="font-size:14pt; color:#0e228a;"> A Body Area Sensor Network for Improved Physical Therapy, STTR, </font><br>
+							<!--font style="font-size:12pt; color:#686868;">Project leaders: ??? </font></p-->
+						</div>
+					</div> <!--One Award end-->
+					<!-- Award:1 -->
+					<div class="col-md-12">												
+						<div class="col-md-1">
+						<img src="./images/telehealth.png" alt="M" style="width:80px">
+						</div>
+						<div class="col-md-10">							
+							<p> <font style="font-size:14pt; color:#0e228a;"> A Body Area Sensor Network for Improved Physical Therapy, STTR, </font><br>
+							<!--font style="font-size:12pt; color:#686868;">Project leaders: ??? </font></p-->
+						</div>
+					</div> <!--One Award end-->
+					<!-- Award:1 -->
+					<div class="col-md-12">						
+						
+						<div class="col-md-1">
+						<img src="./images/muser.png" alt="M" style="width:80px">
+						</div>
+						<div class="col-md-10">							
+							<p> <font style="font-size:14pt; color:#0e228a;"> Multi-observable Session Reputation Scoring System. </font><br>
+							<!--font style="font-size:12pt; color:#686868;">Project leaders: ??? </font></p-->
+						</div>
+					</div> <!--One Award end-->
+
+						<!-- Award:1 -->
+					<div class="col-md-12">												
+						<div class="col-md-1">
+						<img src="./images/PUF.png" alt="M" style="width:80px">
+						</div>
+						<div class="col-md-10">							
+							<p> <font style="font-size:14pt; color:#0e228a;"> Secure Hardware-Based Device Authentication in IoT Frameworks. </font><br>
+							<!--font style="font-size:12pt; color:#686868;">Project leaders: ??? </font></p-->
+						</div>
+					</div> <!--One Award end-->
+						
+						<!-- Award:1 -->
+					<div class="col-md-12">												
+						<div class="col-md-1">
+						<img src="./images/palm.png" alt="M" style="width:80px">
+						</div>
+						<div class="col-md-10">							
+							<p> <font style="font-size:14pt; color:#0e228a;">Vehicular Networking for Intelligent and Autonomous Traffic Man-agement. </font><br>
+							<!--font style="font-size:12pt; color:#686868;">Project leaders: ??? </font></p-->
+						</div>
+					</div> <!--One Award end-->
+
+
+					
+					<div class="col-md-12 space_3px"></div>
+					
+		</b>
+			  
+   <!--Panel set end-->
+
+			</div> <!--Container end-->
+			
+		</div>  <!--Section end-->
+
+		<div class="col-md-12 space_3px"></div>
+
+				<!--  Teaching  -->
+
+        	<!-- Project section start -->
+		<!-- ================ -->
+		<b>
+		<div class="publication-banner">
+      <div class="publication-banner-image">
+				<div  id="teaching-id"  class="publication-banner-caption">
+					<div class="col-md-12">
+								<h1 class="text-left">Teaching</h1>
+							</div>
+						</div>
+			</div>
+		</div>
+
+		<div class="section2 clearfix object-visible">
+			<!-- div class="container"-->
+
+				<!-- div class="col-md-12 publication-panel"-->
+					<div class="col-md-12 space_3px"></div>
+					<!-- Award:1 -->
+					<div class="col-md-12">						
+						<!--<div class="col-md-2 project-panel-image" style="background-image: url(./images/Maria.png); background-size: 100%; background-repeat: no-repeat; background-position: center; height:90px; width:135px; border: 1px solid #0e228a;">
+							</div>-->
+						<div class="col-md-1">
+						<img src="./images/esi.png" alt="M" style="width:80px">
+						</div>
+						<div class="col-md-10">							
+							<p> <font style="font-size:14pt; color:#0e228a;"> System I, Lecturer, <a href="https://www.esi.dz"> Ecole Nationale Supérieure d'Informatique </a>	 </font><br> 		
+						</div>
+					</div> <!--One Award end-->
+					
+					<!-- Award:1 -->
+					<div class="col-md-12">						
+						<!--<div class="col-md-2 project-panel-image" style="background-image: url(./images/Maria.png); background-size: 100%; background-repeat: no-repeat; background-position: center; height:90px; width:135px; border: 1px solid #0e228a;">
+							</div>-->
+						<div class="col-md-1">
+						<img src="./images/esi.png" alt="M" style="width:80px">
+						</div>
+						<div class="col-md-10">							
+							<p> <font style="font-size:14pt; color:#0e228a;">System II, Lecturer, <a href="https://www.esi.dz"> Ecole Nationale Supérieure d'Informatique </a>	 </font><br> 		
+	
+							<!--font style="font-size:12pt; color:#686868;">Project leaders: ??? </font></p-->
+						</div>
+					</div> <!--One Award end-->
+				
+						<!-- Award:1 -->
+					<div class="col-md-12">						
+						<!--<div class="col-md-2 project-panel-image" style="background-image: url(./images/Maria.png); background-size: 100%; background-repeat: no-repeat; background-position: center; height:90px; width:135px; border: 1px solid #0e228a;">
+							</div>-->
+						<div class="col-md-1">
+						<img src="./images/esi.png" alt="M" style="width:80px">
+						</div>
+						<div class="col-md-10">							
+							<p> <font style="font-size:14pt; color:#0e228a;">Networking, Lecturer,<a href="https://www.esi.dz"> Ecole Nationale Supérieure d'Informatique </a>	 </font><br> 		
+							
+							<!--font style="font-size:12pt; color:#686868;">Project leaders: ??? </font></p-->
+						</div>
+					</div> <!--One Award end-->
+
+					<!-- Award:1 -->
+					<div class="col-md-12">						
+						<!--<div class="col-md-2 project-panel-image" style="background-image: url(./images/Maria.png); background-size: 100%; background-repeat: no-repeat; background-position: center; height:90px; width:135px; border: 1px solid #0e228a;">
+							</div>-->
+						<div class="col-md-1">
+						<img src="./images/umbc.png" alt="M" style="width:80px">
+						</div>
+						<div class="col-md-10">							
+							<p> <font style="font-size:14pt; color:#0e228a;">Operating System , TA, University of Maryland Baltimore County</font><br>
+							<!--font style="font-size:12pt; color:#686868;">Project leaders: ??? </font></p-->
+						</div>
+					</div> <!--One Award end-->
+
+					<!-- Award:1 -->
+					<div class="col-md-12">						
+						<!--<div class="col-md-2 project-panel-image" style="background-image: url(./images/Maria.png); background-size: 100%; background-repeat: no-repeat; background-position: center; height:90px; width:135px; border: 1px solid #0e228a;">
+							</div>-->
+						<div class="col-md-1">
+						<img src="./images/usthb.jpg" alt="M" style="width:80px">
+						</div>
+						<div class="col-md-10">							
+							<p> <font style="font-size:14pt; color:#0e228a;">Advanced Operating System  , TA, University of Science and Technology Houari Boumediene</font><br>
+							<!--font style="font-size:12pt; color:#686868;">Project leaders: ??? </font></p-->
+						</div>
+					</div> <!--One Award end-->
+
+					<div class="col-md-12 space_3px"></div>
+
+       
+		</div>
+				
+			  </div> <!--Panel set end-->
+
+			</div> <!--Container end-->
+			
+		</div>  <!--Section end-->
+      </b>
+			<!-- .footer end -->
+
+			<!-- .subfooter start -->
+			<!-- ================ -->
+			<div class="subfooter">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<!--<p class="text-center">  <a target="_blank" href="http://htmlcoder.me">HtmlCoder</a>.</p>-->
+							<p class="text-center"> </p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- .subfooter end -->
+
+		</footer>
+		<!-- footer end -->
+
+		<!-- JavaScript files placed at the end of the document so the pages load faster
+		================================================== -->
+		<!-- Jquery and Bootstap core js files -->
+		<script type="text/javascript" src="plugins/jquery.min.js"></script>
+		<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+
+		<!-- Modernizr javascript -->
+		<script type="text/javascript" src="plugins/modernizr.js"></script>
+
+		<!-- Isotope javascript -->
+		<script type="text/javascript" src="plugins/isotope/isotope.pkgd.min.js"></script>
+
+		<!-- Backstretch javascript -->
+		<script type="text/javascript" src="plugins/jquery.backstretch.min.js"></script>
+
+		<!-- Appear javascript -->
+		<script type="text/javascript" src="plugins/jquery.appear.js"></script>
+
+		<!-- Initialization of Plugins -->
+		<script type="text/javascript" src="js/template.js"></script>
+
+		<!-- Custom Scripts -->
+		<script type="text/javascript" src="js/custom.js"></script>
+</font>
+	</body>
+</html>
+
+
