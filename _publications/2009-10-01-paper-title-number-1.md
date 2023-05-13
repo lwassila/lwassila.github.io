@@ -1,3 +1,15 @@
+<!-- Publication section start -->
+		<!-- ================ -->
+    <div class="publication-banner" style="background-color:white;">
+      <div class="publication-banner-image">
+				<div  id="publication-id"  class="publication-banner-caption">
+					<div class="col-md-8">
+								<h1 class="text-left">Publications</h1>
+							</div>
+					</div>
+			</div>
+		</div>
+
 <!-- CONFERENCE PUBLICATION PANEL-->
 		<div class="section2 clearfix object-visible">
 				<!-- div class="col-md-12 publication-panel">
@@ -445,3 +457,221 @@ Roland N. Emokpae Jr. , Lloyd E. Emokpae</font> <br>
 						</div>
 					       </div>
              <!-- end PAPER:1 -->
+<!-- PAPER:1 -->
+						
+					<div class="col-md-12">
+						<div class="col-md-2 project-panel-image" style="background-image: url(./images/palm.png); background-size: 100%; background-repeat: no-repeat; background-position: center; height:100px; width:135px; border: 1px solid #0e228a;
+						background-color: #EBEBEB;">
+						</div>
+						<div class="col-md-8">
+						<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+							<div class="space_1px"> </div>		
+							<p> <a href="./paper/paper15.pdf"><font style="font-size:14pt; color:#0e228a;"> Connected and Autonomous Vehicles in Smart Cities</font></a><br>
+							<font style="font-size:12pt; color:#686868;"><b></b>Dayuan Tan, Mohamed Younis, Wassila Lalouani, Sookyoung Lee </font> <br>
+							<font style="font-size:12pt; color:#686868;"> International Conference on  (<b>Globe</b>), 2020 </font> <br>
+							<!-- <i class="fa fa-star pr-10 text-colored" style="font-size:10pt; float:left; color:#ef3434"> Best paper award</i><br>-->
+							<!-- <font style="font-size:10pt; color:#686868;"> ACM International Conference on Mobile Systems, Applications, and Services <br> -->
+								<!-- June 19-23, 2017 - Niagara Falls, New York </font></p> -->
+					
+						<div class="col-md-2">
+						<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+						<a href="./paper/paper15.pdf">
+								<div class="publication-button">
+									<p class="text-center"> PDF</p>
+								</div></div>
+							</a>
+							
+							<!--<div class="space_1px"> </div>
+							<a href="./images/VidLyz.pdf">
+								<div class="publication-button">
+									<p class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Slides</p>
+								</div>
+							</a>
+							
+							<div class="space_1px"> </div>
+							<div class="./images/Video_CHI18_ddd.mp4"> </div>
+							<a href="https://www.youtube.com/watch?v=VxcKkhmqXP0">
+								<div class="publication-button">
+									<p class="text-center"><i class="fa fa-film" aria-hidden="true"></i> Video</p>
+								</div>
+							</a>-->
+						</div>
+					       </div>
+             <!-- end PAPER:1 -->
+
+						  	<!-- PAPER:1 -->
+						
+					<div class="col-md-12">
+						<div class="col-md-2 project-panel-image" style="background-image: url(./images/MDC.png); background-size: 100%; background-repeat: no-repeat; background-position: center; height:100px; width:135px; border: 1px solid #0e228a;
+						background-color: #EBEBEB;">
+						</div>
+						<div class="col-md-8">
+						<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+							<div class="space_1px"> </div>		
+							<p> <a href="./paper/paper16.pdf"><font style="font-size:14pt; color:#0e228a;"> Interconnecting isolated network segments through intermittent links </font></a><br>
+							<font style="font-size:12pt; color:#686868;"><b></b>Wassila Lalouani, Mohamed Younis </font> <br>
+							<font style="font-size:12pt; color:#686868;"> Journal of Network and Computer Applications  (<b>JNCA</b>), 2018 </font> <br>
+						
+						<div class="col-md-2">
+						<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+						<a href="./paper/paper16.pdf">
+								<div class="publication-button">
+									<p class="text-center"> PDF</p>
+								</div></div>
+							</a>
+							
+						</div>
+					       </div>
+             <!-- end PAPER:1 -->
+ 
+						  	<!-- PAPER:1 -->
+						
+					<div class="col-md-12">
+						<div class="col-md-2 project-panel-image" style="background-image: url(./images/best.png); background-size: 100%; background-repeat: no-repeat; background-position: center; height:100px; width:135px; border: 1px solid #0e228a;
+						background-color: #EBEBEB;">
+						</div>
+						<div class="col-md-8">
+						<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+							<div class="space_1px"> </div>		
+							<p> <a href="./paper/paper17.pdf"><font style="font-size:14pt; color:#0e228a;"> Optimized repair of a partitioned network topology </font></a><br>
+							<font style="font-size:12pt; color:#686868;"><b></b> Wassila Lalouani, Mohamed Younis </font> <br>
+							<font style="font-size:12pt; color:#686868;"> The International Journal of Computer and Telecommunications Networking  (<b></b>), 2017</font> <br>
+													
+						<div class="col-md-2">
+						<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+						<a href="./paper/paper17.pdf">
+								<div class="publication-button">
+									<p class="text-center"> PDF</p>
+								</div></div>
+							</a>
+							
+							<!--<div class="space_1px"> </div>
+							<a href="./images/VidLyz.pdf">
+								<div class="publication-button">
+									<p class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Slides</p>
+								</div>
+							</a>
+							
+							<div class="space_1px"> </div>
+							<div class="./images/Video_CHI18_ddd.mp4"> </div>
+							<a href="https://www.youtube.com/watch?v=VxcKkhmqXP0">
+								<div class="publication-button">
+									<p class="text-center"><i class="fa fa-film" aria-hidden="true"></i> Video</p>
+								</div>
+							</a>-->
+						</div>
+					       </div>
+             <!-- end PAPER:1 -->
+
+						  	<!-- PAPER:1 -->
+						
+					<div class="col-md-12">
+						<div class="col-md-2 project-panel-image" style="background-image: url(./images/gb1.png); background-size: 100%; background-repeat: no-repeat; background-position: center; height:100px; width:135px; border: 1px solid #0e228a;
+						background-color: #EBEBEB;">
+						</div>
+						<div class="col-md-8">
+						<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+							<div class="space_1px"> </div>		
+							<p> <a href="./paper/paper18.pdf"><font style="font-size:14pt; color:#0e228a;"> Load-Balanced and Energy-Efficient Coverage of Dispersed Events Using Mobile Sensor/Actuator Nodes. </font></a><br>
+							<font style="font-size:12pt; color:#686868;"><b></b> Wassila Lalouani, Mohamed Younis </font> <br>
+							<font style="font-size:12pt; color:#686868;"> IEEE Global Communications Conference  (<b>Globecom</b>), 2015 </font> <br>
+							<!-- <i class="fa fa-star pr-10 text-colored" style="font-size:10pt; float:left; color:#ef3434"> Best paper award</i><br>-->
+							<!-- <font style="font-size:10pt; color:#686868;"> ACM International Conference on Mobile Systems, Applications, and Services <br> -->
+								<!-- June 19-23, 2017 - Niagara Falls, New York </font></p> -->
+						
+						<div class="col-md-2">
+						<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+						<a href="./paper/paper18.pdf">
+								<div class="publication-button">
+									<p class="text-center"> PDF</p>
+								</div></div>
+							</a>
+							
+							<!--<div class="space_1px"> </div>
+							<a href="./images/VidLyz.pdf">
+								<div class="publication-button">
+									<p class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Slides</p>
+								</div>
+							</a>
+							
+							<div class="space_1px"> </div>
+							<div class="./images/Video_CHI18_ddd.mp4"> </div>
+							<a href="https://www.youtube.com/watch?v=VxcKkhmqXP0">
+								<div class="publication-button">
+									<p class="text-center"><i class="fa fa-film" aria-hidden="true"></i> Video</p>
+								</div>
+							</a>-->
+						</div>
+					       </div>
+             <!-- end PAPER:1 -->
+						  	<!-- PAPER:1 -->
+						
+					<div class="col-md-12">
+						<div class="col-md-2 project-panel-image" style="background-image: url(./images/coverage.png); background-size: 100%; background-repeat: no-repeat; background-position: center; height:100px; width:135px; border: 1px solid #0e228a;
+						background-color: #EBEBEB;">
+						</div>
+						<div class="col-md-8">
+						<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+							<div class="space_1px"> </div>		
+							<p> <a href="./paper/paper19.pdf"><font style="font-size:14pt; color:#0e228a;"> Effective handling of spreading events using wireless sensor and actuator networks.</font></a><br>
+							<font style="font-size:12pt; color:#686868;"><b></b> Wassila Lalouani, Mohamed Younis </font> <br>
+							<font style="font-size:12pt; color:#686868;"> International Wireless Communications and Mobile Computing Conference (<b>Globe</b>), 2020 </font> <br>
+							
+						
+						<div class="col-md-2">
+						<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+							<div class="space_1px"> </div>
+						<a href="./paper/paper19.pdf">
+								<div class="publication-button">
+									<p class="text-center"> PDF</p>
+								</div></div>
+							</a>
+							
+							<!--<div class="space_1px"> </div>
+							<a href="./images/VidLyz.pdf">
+								<div class="publication-button">
+									<p class="text-center"><i class="fa fa-bar-chart" aria-hidden="true"></i> Slides</p>
+								</div>
+							</a>
+							
+							<div class="space_1px"> </div>
+							<div class="./images/Video_CHI18_ddd.mp4"> </div>
+							<a href="https://www.youtube.com/watch?v=VxcKkhmqXP0">
+								<div class="publication-button">
+									<p class="text-center"><i class="fa fa-film" aria-hidden="true"></i> Video</p>
+								</div>
+							</a>-->
+						</div>
+					       </div>
+            </b>
+						 <!-- end PAPER:1 -->
+
+						  	<!-- PAPER:1 -->
+						
+					
+    
+  </td>
+    </tr>
+ </tbody>
+	  </table>
+  
+
+	
+				    </div>	
+				<!-- /div-->
+			</div> <!--Container end-->
+		</div> <!--Section end-->
