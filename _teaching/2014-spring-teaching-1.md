@@ -1,6 +1,5 @@
 ---
 title: Spring 2023 Reverse Engineering and malware analysis
-Advanced Networking
 collection: teaching
 type: "Undergraduate course"
 venue: "University 1, Department"
