@@ -1,29 +1,33 @@
+---
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
 --- 
-
- title: collection:  1. M. Younis, W. Lalouani, N. Lasla, L. Emokpae and M. Abdallah, \xc2\x94Blockchain- Enabled and Data-Driven Smart Healthcare Solution for Secure and Privacy-Preserving Data Access,\xc2\x94 in IEEE Systems Journal, 2021.'
+title: collection:  1. M. Younis, W. Lalouani, N. Lasla, L. Emokpae and M. Abdallah, \xc2\x94Blockchain- Enabled and Data-Driven Smart Healthcare Solution for Secure and Privacy-Preserving Data Access,\xc2\x94 in IEEE Systems Journal, 2021.'
  publications permalink: /publication/2010-10-01-paper-title-number-1 
  paperurl: 'http://academicpages.github.io/files/paper1.pdf' 
   citation: 1. M. Younis, W. Lalouani, N. Lasla, L. Emokpae and M. Abdallah, \xc2\x94Blockchain- Enabled and Data-Driven Smart Healthcare Solution for Secure and Privacy-Preserving Data Access,\xc2\x94 in IEEE Systems Journal, 2021.'
- 
  --- 
 
  --- 
-
  title: collection:  2. Wassila Lalouani, Mohamed Younis, Mohammad Ebrahimabadi, Naghmeh Karimi, Countering Modeling Attacks in PUF-based IoT Security Solutions, Accepted ACM Journal on Emerging Technologies in Computing Systems, 2021. (To appear)' 
   publications permalink: /publication/2010-10-01-paper-title-number-2 
  paperurl: 'http://academicpages.github.io/files/paper2.pdf' 
   citation: 2. Wassila Lalouani, Mohamed Younis, Mohammad Ebrahimabadi, Naghmeh Karimi, Countering Modeling Attacks in PUF-based IoT Security Solutions, Accepted ACM Journal on Emerging Technologies in Computing Systems, 2021. (To appear)'
- 
  --- 
 
  --- 
-
  title: collection:  3. Wassila Lalouani, Mohamed Younis, A Robust Distributed Intrusion Detection System for Collusive Attacks on Edge of Things, Accepted IEEE Wireless Communications and Networking Conference (WCNC), 2022. (To appear)\n' 
   publications permalink: /publication/2010-10-01-paper-title-number-3 
  paperurl: 'http://academicpages.github.io/files/paper3.pdf' 
   citation: 3. Wassila Lalouani, Mohamed Younis, A Robust Distributed Intrusion Detection System for Collusive Attacks on Edge of Things, Accepted IEEE Wireless Communications and Networking Conference (WCNC), 2022. (To appear)\n'
- 
- --- 
+--- 
 
  --- 
 
